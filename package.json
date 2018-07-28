@@ -1,0 +1,11 @@
+{
+  "name": "modern-portifolio",
+  "version": "1.0.0",
+  "description": "My portifolio Site.",
+  "main": "index.html",
+  "scripts": {
+    "scss": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Hanish",
+  "license": "MIT"
+}
